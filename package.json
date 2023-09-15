@@ -1,0 +1,19 @@
+{
+  "name": "skillaby-backend",
+  "version": "1.0.0",
+  "description": "skillaby",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Meelis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mysql2": "^3.6.0",
+    "mysql2-promise": "^0.1.4",
+    "talentlms": "^1.1.5",
+    "talentlms-sdk": "^1.0.1"
+  }
+}
